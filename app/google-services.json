@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "943129356340",
+    "project_id": "appuni-13d43",
+    "storage_bucket": "appuni-13d43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:943129356340:android:bfee7d7a0838188956c261",
+        "android_client_info": {
+          "package_name": "com.proyect.eva3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "943129356340-om9tgmk3vuuaid2he0cct73eiqkg752j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvATCeD9Pk1iGFtCbO8RhMziyeujEOBu4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "943129356340-om9tgmk3vuuaid2he0cct73eiqkg752j.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
